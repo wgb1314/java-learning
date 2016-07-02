@@ -1,0 +1,8 @@
+*.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+*.classpath
+java8/.settings/org.eclipse.core.resources.prefs
+java8/.settings/org.eclipse.jdt.core.prefs
+java8/.settings/org.eclipse.m2e.core.prefs
+*.class
